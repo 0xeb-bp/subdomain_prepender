@@ -13,7 +13,7 @@ fn main() -> io::Result<()> {
     let args = App::new("subdomain_prepender")
     .about("Prepends a list of subdomains from list of domains to a specified output file.")
     .version("0.2")
-    .author("written by raiz_")
+    .author("written by 0xeb_bp")
     .arg(
         Arg::with_name("domains file")
             .help("List of domains")
