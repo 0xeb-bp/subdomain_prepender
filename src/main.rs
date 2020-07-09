@@ -1,3 +1,5 @@
+//subdomain_prepender written by @0xeb_bp
+
 use std::io::{self, BufReader, BufWriter};
 use std::io::prelude::*;
 use std::fs::File;
